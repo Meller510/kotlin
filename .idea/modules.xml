@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05_ConditionalExpressions_Loops/05_ConditionalExpressions_Loops.iml" filepath="$PROJECT_DIR$/05_ConditionalExpressions_Loops/05_ConditionalExpressions_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Collections/06_Collections.iml" filepath="$PROJECT_DIR$/06_Collections/06_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_ClassesAndObjects/07_ClassesAndObjects.iml" filepath="$PROJECT_DIR$/07_ClassesAndObjects/07_ClassesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_OOP1/08_OOP1.iml" filepath="$PROJECT_DIR$/08_OOP1/08_OOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_OOP2/09_OOP2.iml" filepath="$PROJECT_DIR$/09_OOP2/09_OOP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Generics_And_Utility_Classes/11_Generics_And_Utility_Classes.iml" filepath="$PROJECT_DIR$/11_Generics_And_Utility_Classes/11_Generics_And_Utility_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Coroutines/13_Coroutines.iml" filepath="$PROJECT_DIR$/13_Coroutines/13_Coroutines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_Flow/14_Flow.iml" filepath="$PROJECT_DIR$/14_Flow/14_Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kotlin-master.iml" filepath="$PROJECT_DIR$/.idea/kotlin-master.iml" />
+    </modules>
+  </component>
+</project>
